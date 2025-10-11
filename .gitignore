@@ -1,0 +1,11 @@
+# Data
+/data/
+
+# modelos
+/models/
+
+# env
+.env
+
+# references
+/references/
