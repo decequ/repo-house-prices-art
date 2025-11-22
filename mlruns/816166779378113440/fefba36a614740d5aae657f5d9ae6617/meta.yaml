@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/fefba36a614740d5aae657f5d9ae6617/artifacts
+end_time: 1763847427956
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: fefba36a614740d5aae657f5d9ae6617
+run_name: crawling-snail-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763847427801
+status: 3
+tags: []
+user_id: DC

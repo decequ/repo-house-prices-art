@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/b3bb92b45f2b40fe9e73880a39eaa318/artifacts
+end_time: 1763847406351
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: b3bb92b45f2b40fe9e73880a39eaa318
+run_name: skillful-skunk-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763847405989
+status: 3
+tags: []
+user_id: DC

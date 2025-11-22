@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/1eb363f109a342a5838ed49619a7dae2/artifacts
+end_time: 1763846987308
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: 1eb363f109a342a5838ed49619a7dae2
+run_name: capricious-ape-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763846987165
+status: 3
+tags: []
+user_id: DC

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/7f9017f6fe9b4442b4d1644559f87a39/artifacts
+end_time: 1763847423639
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: 7f9017f6fe9b4442b4d1644559f87a39
+run_name: flawless-goat-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763847423509
+status: 3
+tags: []
+user_id: DC

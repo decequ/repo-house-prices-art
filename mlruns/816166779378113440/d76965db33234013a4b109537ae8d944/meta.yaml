@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/d76965db33234013a4b109537ae8d944/artifacts
+end_time: 1763846983592
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: d76965db33234013a4b109537ae8d944
+run_name: redolent-shrew-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763846983330
+status: 3
+tags: []
+user_id: DC

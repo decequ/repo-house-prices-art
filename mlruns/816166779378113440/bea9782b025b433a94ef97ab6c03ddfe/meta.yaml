@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/bea9782b025b433a94ef97ab6c03ddfe/artifacts
+end_time: 1763846980046
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: bea9782b025b433a94ef97ab6c03ddfe
+run_name: painted-tern-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763846979900
+status: 3
+tags: []
+user_id: DC

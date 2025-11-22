@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/790d487855e94f8093aa3d1bf7e9ae9a/artifacts
+end_time: 1763847430682
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: 790d487855e94f8093aa3d1bf7e9ae9a
+run_name: gregarious-sow-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763847430548
+status: 3
+tags: []
+user_id: DC

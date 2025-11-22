@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/816166779378113440/21580f3859cf42f9970d16883f924113/artifacts
+end_time: 1763846961783
+entry_point_name: ''
+experiment_id: '816166779378113440'
+lifecycle_stage: active
+run_id: 21580f3859cf42f9970d16883f924113
+run_name: angry-turtle-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763846961458
+status: 3
+tags: []
+user_id: DC
