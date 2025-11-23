@@ -1,0 +1,52 @@
+artifact_path: mlflow-artifacts:/816166779378113440/models/m-d8955b905783405f89d3d77fb5cc3c44/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-d8955b905783405f89d3d77fb5cc3c44
+model_size_bytes: 3357
+model_uuid: m-d8955b905783405f89d3d77fb5cc3c44
+prompts: null
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "MSSubClass", "required": true}, {"type": "double",
+    "name": "MSZoning", "required": true}, {"type": "double", "name": "LotFrontage",
+    "required": true}, {"type": "double", "name": "LotShape", "required": true}, {"type":
+    "double", "name": "LandContour", "required": true}, {"type": "double", "name":
+    "LotConfig", "required": true}, {"type": "double", "name": "Neighborhood", "required":
+    true}, {"type": "double", "name": "RoofStyle", "required": true}, {"type": "double",
+    "name": "Exterior1st", "required": true}, {"type": "double", "name": "ExterQual",
+    "required": true}, {"type": "double", "name": "Foundation", "required": true},
+    {"type": "double", "name": "BsmtQual", "required": true}, {"type": "double", "name":
+    "BsmtExposure", "required": true}, {"type": "double", "name": "BsmtFinType1",
+    "required": true}, {"type": "double", "name": "HeatingQC", "required": true},
+    {"type": "double", "name": "CentralAir", "required": true}, {"type": "double",
+    "name": "1stFlrSF", "required": true}, {"type": "double", "name": "GrLivArea",
+    "required": true}, {"type": "double", "name": "BsmtFullBath", "required": true},
+    {"type": "double", "name": "KitchenQual", "required": true}, {"type": "double",
+    "name": "Functional", "required": true}, {"type": "double", "name": "FireplaceQu",
+    "required": true}, {"type": "double", "name": "GarageFinish", "required": true},
+    {"type": "double", "name": "GarageCars", "required": true}, {"type": "double",
+    "name": "GarageArea", "required": true}, {"type": "double", "name": "PavedDrive",
+    "required": true}, {"type": "double", "name": "WoodDeckSF", "required": true},
+    {"type": "double", "name": "SaleCondition", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-23 00:07:11.326412'

@@ -43,3 +43,63 @@
 2025-11-02 19:57-INFO-RMSE Promedio de modelo SVR: 77786.61, ENTRENAMIENTO
 2025-11-02 19:57-INFO-RMSE Promedio de modelo XGBoost: 33655.16, ENTRENAMIENTO
 2025-11-02 19:57-INFO-Tiempo de Entrenamiento: 25.8938889503479, ENTRENAMIENTO
+2025-11-22 15:20-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 15:20-WARNING-Retrying (Retry(total=6, connect=6, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665DDB4F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:21-WARNING-Retrying (Retry(total=5, connect=5, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665E028DC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:21-WARNING-Retrying (Retry(total=4, connect=4, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665E028F70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:21-WARNING-Retrying (Retry(total=3, connect=3, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665E029120>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:22-WARNING-Retrying (Retry(total=2, connect=2, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665E0292D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:23-WARNING-Retrying (Retry(total=1, connect=1, read=7, redirect=7, status=7)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002665DFD8CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create
+2025-11-22 15:29-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 15:29-INFO-RMSE Promedio de modelo LinearRegression: 33179.96, ENTRENAMIENTO
+2025-11-22 15:29-INFO-RMSE Promedio de modelo RandomForestRegressor: 32847.34, ENTRENAMIENTO
+2025-11-22 15:29-INFO-RMSE Promedio de modelo GradientBoosting: 33296.7, ENTRENAMIENTO
+2025-11-22 15:29-INFO-RMSE Promedio de modelo SVR: 77786.61, ENTRENAMIENTO
+2025-11-22 15:29-INFO-RMSE Promedio de modelo XGBoost: 33655.16, ENTRENAMIENTO
+2025-11-22 15:29-INFO-Tiempo de Entrenamiento: 25.984121084213257, ENTRENAMIENTO
+2025-11-22 15:36-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 15:36-INFO-RMSE Promedio de modelo LinearRegression: 33179.96, ENTRENAMIENTO
+2025-11-22 15:37-INFO-RMSE Promedio de modelo RandomForestRegressor: 32847.34, ENTRENAMIENTO
+2025-11-22 15:37-INFO-RMSE Promedio de modelo GradientBoosting: 33296.7, ENTRENAMIENTO
+2025-11-22 15:37-INFO-RMSE Promedio de modelo SVR: 77786.61, ENTRENAMIENTO
+2025-11-22 15:37-INFO-RMSE Promedio de modelo XGBoost: 33655.16, ENTRENAMIENTO
+2025-11-22 15:37-INFO-Tiempo de Entrenamiento: 24.831010580062866, ENTRENAMIENTO
+2025-11-22 16:02-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 16:02-INFO-RMSE Promedio de modelo LinearRegression: 33179.96, ENTRENAMIENTO
+2025-11-22 16:02-INFO-RMSE Promedio de modelo RandomForestRegressor: 32847.34, ENTRENAMIENTO
+2025-11-22 16:02-INFO-RMSE Promedio de modelo GradientBoosting: 33296.7, ENTRENAMIENTO
+2025-11-22 16:02-INFO-RMSE Promedio de modelo SVR: 77786.61, ENTRENAMIENTO
+2025-11-22 16:02-INFO-RMSE Promedio de modelo XGBoost: 33655.16, ENTRENAMIENTO
+2025-11-22 16:02-INFO-Tiempo de Entrenamiento: 25.29863953590393, ENTRENAMIENTO
+2025-11-22 16:04-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 16:04-INFO-RMSE Promedio de modelo LinearRegression: 33179.96, ENTRENAMIENTO
+2025-11-22 16:05-INFO-RMSE Promedio de modelo RandomForestRegressor: 32847.34, ENTRENAMIENTO
+2025-11-22 16:05-INFO-RMSE Promedio de modelo GradientBoosting: 33296.7, ENTRENAMIENTO
+2025-11-22 16:05-INFO-RMSE Promedio de modelo SVR: 77786.61, ENTRENAMIENTO
+2025-11-22 16:05-INFO-RMSE Promedio de modelo XGBoost: 33655.16, ENTRENAMIENTO
+2025-11-22 16:05-INFO-Tiempo de Entrenamiento: 24.431296825408936, ENTRENAMIENTO
+2025-11-22 17:08-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:12-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:15-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:15-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:17-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:17-INFO-RMSE Promedio de modelo linear_regression: 27598.031656400595, ENTRENAMIENTO
+2025-11-22 17:18-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:18-INFO-RMSE Promedio de modelo linear_regression: 27598.031656400595, ENTRENAMIENTO
+2025-11-22 17:18-INFO-RMSE Promedio de modelo random_forest: 30192.447943866486, ENTRENAMIENTO
+2025-11-22 17:18-INFO-RMSE Promedio de modelo gradient_boosting: 27981.37755624871, ENTRENAMIENTO
+2025-11-22 17:25-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:28-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:28-INFO-RMSE de modelo linear_regression: 27598.03, ENTRENAMIENTO
+2025-11-22 17:29-INFO-RMSE de modelo random_forest: 31075.57, ENTRENAMIENTO
+2025-11-22 17:29-INFO-RMSE de modelo gradient_boosting: 26980.68, ENTRENAMIENTO
+2025-11-22 17:37-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:37-INFO-RMSE de modelo linear_regression: 27598.03, ENTRENAMIENTO
+2025-11-22 17:37-INFO-RMSE de modelo random_forest: 30376.2, ENTRENAMIENTO
+2025-11-22 17:37-INFO-RMSE de modelo gradient_boosting: 28045.65, ENTRENAMIENTO
+2025-11-22 17:37-INFO-Tiempo de Entrenamiento: 20.52295160293579, ENTRENAMIENTO
+2025-11-22 17:38-INFO-----Iniciando Entrenamiento, ENTRENAMIENTO
+2025-11-22 17:38-INFO-RMSE de modelo linear_regression: 27598.03, ENTRENAMIENTO
+2025-11-22 17:38-INFO-RMSE de modelo random_forest: 30524.93, ENTRENAMIENTO
+2025-11-22 17:38-INFO-RMSE de modelo gradient_boosting: 28065.16, ENTRENAMIENTO
+2025-11-22 17:38-INFO-Tiempo de Entrenamiento: 20.965290546417236, ENTRENAMIENTO
